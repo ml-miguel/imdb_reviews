@@ -15,7 +15,7 @@
 - Google Colab (GPU T4)
 
 ## Структура проекта
-.
+.  
 ├── train.py # обучение модели  
 ├── predict.py # предсказание на новом тексте  
 ├── review_classifier.py # архитектура модели  

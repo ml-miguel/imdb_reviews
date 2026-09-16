@@ -18,7 +18,7 @@
 .  
 ├── train.py # обучение модели  
 ├── predict.py # предсказание на новом тексте  
-├── review_classifier.py # класс модели  
+├── review_classifier.py # класс ReviewClassifier: backbone + голова
 ├── requirements.txt  
 ├── README.md  
 └── .gitignore  

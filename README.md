@@ -16,12 +16,12 @@
 
 ## Структура проекта
 .
-├── train.py # обучение модели
-├── predict.py # предсказание на новом тексте
-├── review_classifier.py # архитектура модели
-├── requirements.txt
-├── README.md
-└── .gitignore
+├── train.py # обучение модели  
+├── predict.py # предсказание на новом тексте  
+├── review_classifier.py # архитектура модели  
+├── requirements.txt  
+├── README.md  
+└── .gitignore  
 
 text
 
